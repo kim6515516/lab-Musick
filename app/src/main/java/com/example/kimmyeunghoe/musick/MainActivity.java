@@ -38,7 +38,7 @@ public class MainActivity extends ActionBarActivity {
             Toast.makeText(getApplicationContext(), e.getMessage(), Toast.LENGTH_SHORT).show();
         }
 
-
+        ////// test
         btStart = (Button) findViewById(R.id.bt_start);
         btStop = (Button) findViewById(R.id.bt_stop);
 
